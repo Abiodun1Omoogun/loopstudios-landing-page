@@ -20,5 +20,18 @@
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4",
     "vite": "^4.0.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abiodun1Omoogun/loopstudios-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abiodun1Omoogun/loopstudios-landing-page/issues"
+  },
+  "homepage": "https://github.com/Abiodun1Omoogun/loopstudios-landing-page#readme",
+  "description": ""
 }
